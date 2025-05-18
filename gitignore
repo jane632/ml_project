@@ -1,17 +1,1 @@
-__pycache__/
-*.pyc
-*.pyo
 
-# Virtual environment
-venv/
-
-# VS Code settings
-.vscode/
-
-# Distribution and packaging
-*.egg-info/
-build/
-dist/
-
-# Jupyter checkpoints (if using notebooks)
-.ipynb_checkpoints/
