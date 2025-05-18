@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore build metadata
+ml_project.egg-info/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Ignore Mac/Windows junk
+.DS_Store
+Thumbs.db
